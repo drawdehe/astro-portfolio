@@ -42,15 +42,15 @@ const siteConfig: SiteConfig = {
     headerNavLinks: [
         {
             text: 'Home',
-            href: 'astro-porfolio'
+            href: '/'
         },
         {
             text: 'Projects',
-            href: 'astro-portfolio/projects'
+            href: '/projects'
         },
         {
             text: 'Contact',
-            href: 'astro-portfolio/contact'
+            href: '/contact'
         }
     ],
     socialLinks: [
