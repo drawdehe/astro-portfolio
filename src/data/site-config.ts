@@ -42,15 +42,15 @@ const siteConfig: SiteConfig = {
     headerNavLinks: [
         {
             text: 'Home',
-            href: '/'
+            href: ''
         },
         {
             text: 'Projects',
-            href: '/projects'
+            href: 'projects'
         },
         {
             text: 'Contact',
-            href: '/contact'
+            href: 'contact'
         }
     ],
     socialLinks: [
