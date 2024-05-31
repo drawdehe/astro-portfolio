@@ -46,11 +46,11 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Projects',
-            href: '/projects'
+            href: 'astro-portfolio/projects'
         },
         {
             text: 'Contact',
-            href: '/contact'
+            href: 'astro-portfolio/contact'
         }
     ],
     socialLinks: [
