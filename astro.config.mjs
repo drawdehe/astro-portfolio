@@ -6,7 +6,7 @@ import tailwind from '@astrojs/tailwind';
 // https://astro.build/config
 export default defineConfig({
     site: 'https://drawdehe.github.io',
-    base: '/astro-portfolio',
+    base: 'astro-portfolio',
     integrations: [
         mdx(),
         sitemap(),
