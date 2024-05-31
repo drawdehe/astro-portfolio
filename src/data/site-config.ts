@@ -77,7 +77,7 @@ const siteConfig: SiteConfig = {
         actions: [
             {
                 text: 'Get in touch',
-                href: '/contact'
+                href: '/astro-portfolio/contact'
             }
         ]
     },
