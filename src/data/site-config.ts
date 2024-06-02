@@ -64,7 +64,7 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Email',
-            href: 'mailto:edsj@edsj.se'
+            href: 'mailto:edward@edsj.se'
         }
     ],
     hero: {

@@ -9,7 +9,7 @@ Feel free to reach out regarding any idea or question you may have. Or just to s
 
 Email
 <br>
-[edsj@edsj.se](mailto:edsj@edsj.se)
+[edward@edsj.se](mailto:edward@edsj.se)
 
 Phone
 <br>
