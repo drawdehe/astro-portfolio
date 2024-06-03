@@ -18,8 +18,6 @@ Developed a prototype for preventing bark beetle outbreaks. The project was perf
 
 - Figma
 
-## Images
-
 ![Barkbeetle 1](/astro-portfolio/barkbeetle-1.png)
 ![Barkbeetle 2](/astro-portfolio/barkbeetle-2.png)
 ![Barkbeetle 3](/astro-portfolio/barkbeetle-3.png)

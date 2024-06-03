@@ -21,8 +21,6 @@ An Android application utilizing the GPS to track the location of the user. The 
 - Figma
 - Git
 
-## Images
-
 ![Synth 1](/astro-portfolio/synth-1.jpg)
 ![Synth 2](/astro-portfolio/synth-2.jpg)
 ![Synth 3](/astro-portfolio/synth-3.jpg)

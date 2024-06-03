@@ -19,8 +19,6 @@ Master thesis on real-time reconstruction of envrionments in XR. Hydra was utili
 - Git
 - Meta Quest 2
 
-## Images
-
 ![Thesis 1](/astro-portfolio/thesis-1.png)
 ![Thesis 2](/astro-portfolio/thesis-2.png)
 ![Thesis 3](/astro-portfolio/thesis-3.png)

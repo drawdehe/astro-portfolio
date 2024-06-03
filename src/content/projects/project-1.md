@@ -21,8 +21,6 @@ Backtesting and notification software for the stock market. The user can choose 
 - PostgreSQL
 - Git
 
-## Images
-
 ![Datatick 1](/astro-portfolio/datatick-1.png)
 ![Datatick 2](/astro-portfolio/datatick-2.png)
 ![Datatick 3](/astro-portfolio/datatick-3.png)
