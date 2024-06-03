@@ -12,7 +12,7 @@ seo:
 
 ## Project Overview
 
-Developed a prototype for preventing bark beetle outbreaks. The project was performed together with four friends for a Hackathon, ultimately winning the Hackathon. An article about the prototype can be found here.
+Developed a prototype for preventing bark beetle outbreaks. The project was performed together with four friends for a Hackathon, ultimately winning the Hackathon. An article about the prototype can be found [here](https://www.ingenjoren.se/2020/12/11/studenternas-app-kan-radda-skog-fran-granbarkborre/).
 
 ## Tech and Tools
 
