@@ -23,7 +23,7 @@ An Android application utilizing the GPS to track the location of the user. The 
 
 ## Images
 
-![Synth 1](/astro-portfolio/public/synth/synth-1.jpg)
-![Synth 2](/astro-portfolio/public/synth/synth-2.jpg)
-![Synth 3](/astro-portfolio/public/synth/synth-3.jpg)
-![Synth 4](/astro-portfolio/public/synth/synth-4.jpg)
+![Synth 1](/astro-portfolio/synth-1.jpg)
+![Synth 2](/astro-portfolio/synth-2.jpg)
+![Synth 3](/astro-portfolio/synth-3.jpg)
+![Synth 4](/astro-portfolio/synth-4.jpg)

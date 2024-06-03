@@ -22,8 +22,8 @@ Master thesis on real-time reconstruction of envrionments in XR. Hydra was utili
 ## Images
 
 ![Thesis 1](/astro-portfolio/thesis-1.png)
-![Thesis 2](/astro-portfolio/public/thesis/thesis-2.png)
-![Thesis 3](/astro-portfolio/public/thesis/thesis-3.png)
-![Thesis 4](/astro-portfolio/public/thesis/thesis-4.png)
-![Thesis 5](/astro-portfolio/public/thesis/thesis-5.png)
-![Thesis 6](/astro-portfolio/public/thesis/thesis-6.png)
+![Thesis 2](/astro-portfolio/thesis-2.png)
+![Thesis 3](/astro-portfolio/thesis-3.png)
+![Thesis 4](/astro-portfolio/thesis-4.png)
+![Thesis 5](/astro-portfolio/thesis-5.png)
+![Thesis 6](/astro-portfolio/thesis-6.png)

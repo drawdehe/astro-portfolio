@@ -23,9 +23,9 @@ Backtesting and notification software for the stock market. The user can choose 
 
 ## Images
 
-![Datatick 1](/astro-portfolio/public/datatick/datatick-1.png)
-![Datatick 2](/astro-portfolio/public/datatick/datatick-2.png)
-![Datatick 3](/astro-portfolio/public/datatick/datatick-3.png)
-![Datatick 4](/astro-portfolio/public/datatick/datatick-4.png)
-![Datatick 5](/astro-portfolio/public/datatick/datatick-5.png)
-![Datatick 6](/astro-portfolio/public/datatick/datatick-6.png)
+![Datatick 1](/astro-portfolio/datatick-1.png)
+![Datatick 2](/astro-portfolio/datatick-2.png)
+![Datatick 3](/astro-portfolio/datatick-3.png)
+![Datatick 4](/astro-portfolio/datatick-4.png)
+![Datatick 5](/astro-portfolio/datatick-5.png)
+![Datatick 6](/astro-portfolio/datatick-6.png)
