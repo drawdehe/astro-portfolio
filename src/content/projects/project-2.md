@@ -2,13 +2,7 @@
 title: 'Master Thesis'
 description: Real-time reconstruction of 3D environments in XR.
 publishDate: 'Jan 02 2024'
-seo:
-  image:
-    src: '/project-1.jpg'
-    alt: Project preview
 ---
-
-<!--![Project preview](/project-1.jpg)-->
 
 ## Project Overview
 
@@ -24,3 +18,12 @@ Master thesis on real-time reconstruction of envrionments in XR. Hydra was utili
 - Blender
 - Git
 - Meta Quest 2
+
+## Images
+
+![Thesis 1](/astro-portfolio/public/thesis/thesis-1.png)
+![Thesis 2](/astro-portfolio/public/thesis/thesis-2.png)
+![Thesis 3](/astro-portfolio/public/thesis/thesis-3.png)
+![Thesis 4](/astro-portfolio/public/thesis/thesis-4.png)
+![Thesis 5](/astro-portfolio/public/thesis/thesis-5.png)
+![Thesis 6](/astro-portfolio/public/thesis/thesis-6.png)
