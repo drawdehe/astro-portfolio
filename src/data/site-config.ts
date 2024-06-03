@@ -64,12 +64,12 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Email',
-            href: 'mailto:edward@edsj.se'
+            href: 'mailto:edward.sjoblom@gmail.com'
         }
     ],
     hero: {
         title: "Hi! I'm Edward.",
-        text: "I am a final year MSc. Information and Communcation Engineering Technologies student. Currently, I am in the process of finishing my software specialization. <br> <br> I enjoy building things with software, focusing on achieving great UX. I believe that software products should be intuitive, effective and fun to use. <br> <br> My favourite tech and tools: <br> <br> - <b>Laravel</b> <br> - <b>Vue</b> <br> - <b>Inertia</b> <br> - <b>Tailwind</b> <br> - <b>Docker</b> <br> - <b>Git</b> <br> - <b>Figma</b> <br> - <b>Unity</b> ",
+        text: "I am a final year MSc. Information and Communcation Engineering Technologies student. Currently, I am in the process of finishing my software specialization. <br> <br> I enjoy building things with software, focusing on achieving great UX. I believe that software products should be intuitive, effective and fun to use. <br> <br> My favourite tech and tools: <br> <br> - <b>Python</b> <br> - <b>SQL</b> <br> - <b>PHP</b> <br> - <b>Streamlit</b> <br> - <b>Laravel</b> <br> - <b>Astro</b> <br> - <b>Docker</b> <br> - <b>Git</b> <br> - <b>Figma</b> <br> - <b>Unity</b> ",
         /*image: {
             src: '/me.png',
             alt: 'Me.'
