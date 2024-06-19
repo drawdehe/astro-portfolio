@@ -19,11 +19,10 @@ Backtesting and notification software for the stock market. The user can choose 
 - Python
 - Streamlit
 - PostgreSQL
-- Git
 
-![Datatick 1](/astro-portfolio/datatick-1.png)
-![Datatick 2](/astro-portfolio/datatick-2.png)
-![Datatick 3](/astro-portfolio/datatick-3.png)
-![Datatick 4](/astro-portfolio/datatick-4.png)
-![Datatick 5](/astro-portfolio/datatick-5.png)
-![Datatick 6](/astro-portfolio/datatick-6.png)
+![Datatick 1](/datatick-1.png)
+![Datatick 2](/datatick-2.png)
+![Datatick 3](/datatick-3.png)
+![Datatick 4](/datatick-4.png)
+![Datatick 5](/datatick-5.png)
+![Datatick 6](/datatick-6.png)

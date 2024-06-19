@@ -19,9 +19,8 @@ An Android application utilizing the GPS to track the location of the user. The 
 - Java
 - Android Studio
 - Figma
-- Git
 
-![Synth 1](/astro-portfolio/synth-1.png)
-![Synth 2](/astro-portfolio/synth-2.png)
-![Synth 3](/astro-portfolio/synth-3.png)
-![Synth 4](/astro-portfolio/synth-4.png)
+![Synth 1](/synth-1.png)
+![Synth 2](/synth-2.png)
+![Synth 3](/synth-3.png)
+![Synth 4](/synth-4.png)

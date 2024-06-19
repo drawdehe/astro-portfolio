@@ -16,12 +16,11 @@ Master thesis on real-time reconstruction of envrionments in XR. Hydra was utili
 - ROS
 - Unity
 - Blender
-- Git
 - Meta Quest 2
 
-![Thesis 1](/astro-portfolio/thesis-1.png)
-![Thesis 2](/astro-portfolio/thesis-2.png)
-![Thesis 3](/astro-portfolio/thesis-3.png)
-![Thesis 4](/astro-portfolio/thesis-4.png)
-![Thesis 5](/astro-portfolio/thesis-5.png)
-![Thesis 6](/astro-portfolio/thesis-6.png)
+![Thesis 1](/thesis-1.png)
+![Thesis 2](/thesis-2.png)
+![Thesis 3](/thesis-3.png)
+![Thesis 4](/thesis-4.png)
+![Thesis 5](/thesis-5.png)
+![Thesis 6](/thesis-6.png)

@@ -21,7 +21,7 @@ Skeleton Survival is a VR game that immerses the player in a fog-draped forest, 
 - Blender
 - Meta Quest 2
 
-![Skeleton 1](/astro-portfolio/skeleton-1.png)
-![Skeleton 2](/astro-portfolio/skeleton-2.png)
-![Skeleton 3](/astro-portfolio/skeleton-3.png)
-![Skeleton 4](/astro-portfolio/skeleton-4.png)
+![Skeleton 1](/skeleton-1.png)
+![Skeleton 2](/skeleton-2.png)
+![Skeleton 3](/skeleton-3.png)
+![Skeleton 4](/skeleton-4.png)
