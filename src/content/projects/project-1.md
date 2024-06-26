@@ -12,7 +12,7 @@ seo:
 
 ## Project Overview
 
-Backtesting and notification software for the stock market. The user can choose which stock to backtest, and then set an alarm based on the backtest for multiple stocks. When a stock meets a condition, an email is sent to the user.
+Backtesting and notification software for the stock market. The user can choose which stock to backtest, and then set an alarm based on the backtest for multiple stocks. When a stock meets a condition, an email is sent to the user. The website can be found at [datatick.io](https://datatick.io).
 
 ## Tech and Tools
 
