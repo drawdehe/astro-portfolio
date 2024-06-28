@@ -69,7 +69,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: "Hi! I'm Edward.",
-        text: "I am a final year MSc. Information and Communcation Engineering Technologies student. Currently, I am in the process of finishing my software specialization. <br> <br> I enjoy building things with software, always striving to combine functionality, simplicity and aesthetics. I firmly believe that a great UI can elevate any product. <br> <br> My favourite tech and tools: <br> <br> - <b>Python</b> <br> - <b>PHP</b> <br> - <b>Laravel</b> <br> - <b>Astro</b> <br> - <b>Docker</b> <br> - <b>Figma</b> <br> - <b>Unity</b> ",
+        text: "I am software engineer with a passion for great UX. <br> <br> I enjoy building usable applications, striving to combine functionality, simplicity and aesthetics. <br> <br> My favourite tech and tools: <br> <br> - <b>Python</b> <br> - <b>PHP</b> <br> - <b>Laravel</b> <br> - <b>Astro</b> <br> - <b>Docker</b> <br> - <b>Figma</b> <br> - <b>Unity</b> ",
         /*image: {
             src: '/me.png',
             alt: 'Me.'
