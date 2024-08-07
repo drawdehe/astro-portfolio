@@ -69,7 +69,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: "Hi! I'm Edward.",
-        text: "I am a software engineer building software products that are reliable, intuitive and aesthetic. <br> <br> My favourite tech and tools: <br> <br> - <b>Python</b> <br> - <b>PHP</b> <br> - <b>Laravel</b> <br> - <b>Astro</b> <br> - <b>Docker</b> <br> - <b>Figma</b> <br> - <b>Unity</b> ",
+        text: "I am a software engineer building cool things. <br> <br> My favourite tech and tools: <br> <br> - <b>Next.js</b> <br> - <b>React Native</b> <br> - <b>Astro</b> <br> - <b>Laravel</b> <br> - <b>Streamlit</b> <br> - <b>Docker</b> <br> - <b>Figma</b> <br> - <b>Unity</b> ",
         /*image: {
             src: '/me.png',
             alt: 'Me.'
