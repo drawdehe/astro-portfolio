@@ -1,6 +1,6 @@
 ---
-title: 'Synth Hunt'
-description: A treasure hunt application with a multimodal interaction synth treasure.
+title: 'Hackathon Winner'
+description: Detecting and preventing bark beetle outbreaks.
 publishDate: 'Jan 02 2024'
 seo:
   image:
@@ -12,15 +12,16 @@ seo:
 
 ## Project Overview
 
-An Android application utilizing the GPS to track the location of the user. The user rotates the phone in order to find a vibration, directing the user towards the treasure. When the treaure is found, the user can shake and rotate the phone to create different synth sounds.
+Developed a prototype for preventing bark beetle outbreaks. The project was performed together with four friends for a Hackathon, ultimately winning the Hackathon. An article about the prototype can be found [here](https://www.ingenjoren.se/2020/12/11/studenternas-app-kan-radda-skog-fran-granbarkborre/).
 
 ## Tech and Tools
 
-- Java
-- Android Studio
 - Figma
 
-![Synth 1](/synth-1.png)
-![Synth 2](/synth-2.png)
-![Synth 3](/synth-3.png)
-![Synth 4](/synth-4.png)
+![Barkbeetle 1](/barkbeetle-1.png)
+![Barkbeetle 2](/barkbeetle-2.png)
+![Barkbeetle 3](/barkbeetle-3.png)
+![Barkbeetle 4](/barkbeetle-4.png)
+![Barkbeetle 5](/barkbeetle-5.png)
+![Barkbeetle 6](/barkbeetle-6.png)
+![Barkbeetle 7](/barkbeetle-7.png)

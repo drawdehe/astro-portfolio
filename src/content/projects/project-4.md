@@ -1,6 +1,6 @@
 ---
-title: 'Hackathon Winner'
-description: Detecting and preventing bark beetle outbreaks.
+title: 'Skeleton Survival'
+description: A VR horror game.
 publishDate: 'Jan 02 2024'
 seo:
   image:
@@ -12,16 +12,16 @@ seo:
 
 ## Project Overview
 
-Developed a prototype for preventing bark beetle outbreaks. The project was performed together with four friends for a Hackathon, ultimately winning the Hackathon. An article about the prototype can be found [here](https://www.ingenjoren.se/2020/12/11/studenternas-app-kan-radda-skog-fran-granbarkborre/).
+Skeleton Survival is a VR game that immerses the player in a fog-draped forest, surrounded by relentless skeletons. The player must navigate the forest, picking up grenades to strategically eliminate skeletons. The game's atmospheric design and intimidating audio, coupled with precise gameplay mechanics, makes for an intense and immersive VR experience. The game was presented at a VR game fair at LTH and gained significant attention for its haunting audio design and immersiveness.
 
 ## Tech and Tools
 
-- Figma
+- Unity
+- C#
+- Blender
+- Meta Quest 2
 
-![Barkbeetle 1](/barkbeetle-1.png)
-![Barkbeetle 2](/barkbeetle-2.png)
-![Barkbeetle 3](/barkbeetle-3.png)
-![Barkbeetle 4](/barkbeetle-4.png)
-![Barkbeetle 5](/barkbeetle-5.png)
-![Barkbeetle 6](/barkbeetle-6.png)
-![Barkbeetle 7](/barkbeetle-7.png)
+![Skeleton 1](/skeleton-1.png)
+![Skeleton 2](/skeleton-2.png)
+![Skeleton 3](/skeleton-3.png)
+![Skeleton 4](/skeleton-4.png)

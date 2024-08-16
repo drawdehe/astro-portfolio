@@ -1,26 +1,28 @@
 ---
-title: 'Master Thesis'
-description: Real-time reconstruction of 3D environments in XR.
+title: 'Datatick'
+description: Backtesting and notifications for the stock market.
 publishDate: 'Jan 02 2024'
+seo:
+  image:
+    src: '/project-1.jpg'
+    alt: Project preview
 ---
+
+<!--![Project preview](/project-1.jpg)-->
 
 ## Project Overview
 
-Master thesis on real-time reconstruction of envrionments in XR. Hydra was utilized to generate virtual representations of 3D environments. A data pipeline was implemented to reconstruct the 3D environment in Unity based on the virtual environment representation from Hydra, as a user experienced the environment being rendered in real-time in XR. The thesis can be found [here](https://lup.lub.lu.se/student-papers/search/publication/9147083).
+Backtesting and notification software for the stock market. The user can choose which stock to backtest, and then set an alarm based on the backtest for multiple stocks. When a stock meets a condition, an email is sent to the user. The website can be found at [datatick.io](https://datatick.io).
 
 ## Tech and Tools
 
 - Python
-- C#
-- C++
-- ROS
-- Unity
-- Blender
-- Meta Quest 2
+- Streamlit
+- PostgreSQL
 
-![Thesis 1](/thesis-1.png)
-![Thesis 2](/thesis-2.png)
-![Thesis 3](/thesis-3.png)
-![Thesis 4](/thesis-4.png)
-![Thesis 5](/thesis-5.png)
-![Thesis 6](/thesis-6.png)
+![Datatick 1](/datatick-1.png)
+![Datatick 2](/datatick-2.png)
+![Datatick 3](/datatick-3.png)
+![Datatick 4](/datatick-4.png)
+![Datatick 5](/datatick-5.png)
+![Datatick 6](/datatick-6.png)

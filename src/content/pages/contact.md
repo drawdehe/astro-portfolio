@@ -5,11 +5,11 @@ seo:
   description: Get in touch regarding any idea, suggestion or questions you may have.
 ---
 
-Feel free to reach out regarding any idea or question you may have. Or just to say hi.
+Feel free to reach out. 
 
 Email
 <br>
-[edward@edsj.se](mailto:edward@edsj.se)
+[edward.sjoblom@gmail.com](mailto:edward.sjoblom@gmail.com)
 
 Phone
 <br>

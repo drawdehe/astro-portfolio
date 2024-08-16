@@ -1,27 +1,26 @@
 ---
-title: 'Skeleton Survival'
-description: A VR horror game.
+title: 'Master Thesis'
+description: Real-time reconstruction of 3D environments in XR.
 publishDate: 'Jan 02 2024'
-seo:
-  image:
-    src: '/project-1.jpg'
-    alt: Project preview
 ---
-
-<!--![Project preview](/project-1.jpg)-->
 
 ## Project Overview
 
-Skeleton Survival is a VR game that immerses the player in a fog-draped forest, surrounded by relentless skeletons. The player must navigate the forest, picking up grenades to strategically eliminate skeletons. The game's atmospheric design and intimidating audio, coupled with precise gameplay mechanics, makes for an intense and immersive VR experience. The game was presented at a VR game fair at LTH and gained significant attention for its haunting audio design and immersiveness.
+Master thesis on real-time reconstruction of envrionments in XR. Hydra was utilized to generate virtual representations of 3D environments. A data pipeline was implemented to reconstruct the 3D environment in Unity based on the virtual environment representation from Hydra, as a user experienced the environment being rendered in real-time in XR. The thesis can be found [here](https://lup.lub.lu.se/student-papers/search/publication/9147083).
 
 ## Tech and Tools
 
-- Unity
+- Python
 - C#
+- C++
+- ROS
+- Unity
 - Blender
 - Meta Quest 2
 
-![Skeleton 1](/skeleton-1.png)
-![Skeleton 2](/skeleton-2.png)
-![Skeleton 3](/skeleton-3.png)
-![Skeleton 4](/skeleton-4.png)
+![Thesis 1](/thesis-1.png)
+![Thesis 2](/thesis-2.png)
+![Thesis 3](/thesis-3.png)
+![Thesis 4](/thesis-4.png)
+![Thesis 5](/thesis-5.png)
+![Thesis 6](/thesis-6.png)
