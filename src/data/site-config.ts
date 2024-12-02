@@ -56,7 +56,7 @@ const siteConfig: SiteConfig = {
     socialLinks: [
         {
             text: 'Linkedin',
-            href: 'https://www.linkedin.com/in/edward-sjoblom/'
+            href: 'https://www.linkedin.com/in/edsj/'
         },
         {
             text: 'Github',
@@ -69,7 +69,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: "Hi! I'm Edward.",
-        text: "I am a full-stack software engineer building software products from idea to production. <br> <br> My favourite tech and tools: <br> <br> - <b>Next.js</b> <br> - <b>Astro</b> <br> - <b>Tailwind</b> <br> - <b>React Native</b> <br> - <b>Figma</b> <br> - <b>Unity</b> ",
+        text: "I'm a Full Stack Developer building software products from idea to production. <br> <br> My favourite tech and tools: <br> <br> - <b>Next.js</b> <br> - <b>Node.js</b> <br> - <b>React</b> <br> - <b>Tailwind</b> <br> - <b>React Native</b> <br> - <b>Figma</b> <br> - <b>Unity</b>",
         /*image: {
             src: '/me.png',
             alt: 'Me.'

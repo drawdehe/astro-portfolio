@@ -17,4 +17,4 @@ Phone
 
 Linkedin
 <br>
-[Linkedin profile](https://www.linkedin.com/in/edward-sjoblom)
+<a href="https://www.linkedin.com/in/edsj" target="_blank" rel="noopener noreferrer">Linkedin profile</a>
